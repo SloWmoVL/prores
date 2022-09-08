@@ -1,2 +1,2 @@
 # prores
-RA repository
+Проект сайта на GitHub, опубликованный напрямую из VS Code
